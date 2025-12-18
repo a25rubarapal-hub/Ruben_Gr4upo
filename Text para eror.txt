@@ -21,6 +21,9 @@ HTML PEOR LLENGUAGE
 HTML PEOR LLENGUAGE
 MaksymTop
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of eabc1d0 (Merge remote-tracking branch 'origin/Unai' into Maksym)
+=======
 >>>>>>> parent of eabc1d0 (Merge remote-tracking branch 'origin/Unai' into Maksym)
 =======
 >>>>>>> parent of eabc1d0 (Merge remote-tracking branch 'origin/Unai' into Maksym)
