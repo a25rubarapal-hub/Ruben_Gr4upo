@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1vgqfeçv+
 
 bolo
@@ -6,3 +7,17 @@ be
 b
 b
 ebr
+=======
+JAVA ES UNA MIERDA
+JAVA ES UNA MIERDA
+JAVA ES UNA MIERDA
+JAVA ES UNA MIERDA
+JAVA ES UNA MIERDA
+HTML PEOR LLENGUAGE
+HTML PEOR LLENGUAGE
+HTML PEOR LLENGUAGE
+HTML PEOR LLENGUAGE
+HTML PEOR LLENGUAGE
+HTML PEOR LLENGUAGE
+MaksymTop
+>>>>>>> parent of eabc1d0 (Merge remote-tracking branch 'origin/Unai' into Maksym)
